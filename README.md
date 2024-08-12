@@ -1,2 +1,2 @@
 # Q-A-Section-Small-Project-Begineer---HTML-CSS-JavaScript
-This project involves creating a question and answer section that can be useful for many websites to improve their SEO.
+This project involves creating a question and answer section that can be useful for many websites to improve their SEO. The final version of the project features three questions, each with a plus sign tab. Clicking on the plus sign shows the answer of the question. We'll use Font Awesome's library to get the plus and minus signs. We'll learn to add and remove classes using JavaScript. When we click on the plus sign, we'll add an "active" class to the question, revealing the answer. Clicking on the minus sign removes the "active" class to hide the answer.
